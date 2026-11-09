@@ -52,6 +52,9 @@ or
 
 - (Docker container hides real local/global ips, so you need to checkout it manually)
 
+## One-Click Deploy
+
+[![Deploy on RepoCloud](https://d16t0pc4846x52.cloudfront.net/deploylobe.svg)](https://repocloud.io/details/SyncTube/)
 
 ## Optional dependencies
 If you want to enable `Cache on server` feature for Youtube and other [supported sites](https://github.com/yt-dlp/yt-dlp/blob/master/supportedsites.md), you can also run:
